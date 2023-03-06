@@ -6,10 +6,15 @@
  
                                  Caesar
                                  Polybius
+                                 
                                  Substitution
+                                 
                                  unit tests with Mocha and Chai
  Technology used:
+ 
                 Javascript
+                
                 HTML
+                
                 Mocha and Chai
                 
