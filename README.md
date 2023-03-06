@@ -4,18 +4,18 @@
  
  The algorithms implemented were:
  
-                                 Caesar
+       Caesar
                                  
-                                 Polybius
+       Polybius
                                  
-                                 Substitution
+       Substitution
                                  
-                                 unit tests with Mocha and Chai
+       unit tests with Mocha and Chai
  Technology used:
  
-                Javascript
+       Javascript
                 
-                HTML
+       HTML
                 
-                Mocha and Chai
+       Mocha and Chai
                 
