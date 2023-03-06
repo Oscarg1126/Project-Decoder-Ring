@@ -1,4 +1,4 @@
- Encryption/Decryption Application
+ # Encryption/Decryption Application
  
  This application was created to allow users to decode words and phrases using three different algorithms.
  
