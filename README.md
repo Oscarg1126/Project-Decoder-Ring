@@ -5,6 +5,7 @@
  The algorithms implemented were:
  
                                  Caesar
+                                 
                                  Polybius
                                  
                                  Substitution
